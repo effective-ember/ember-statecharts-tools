@@ -1,7 +1,7 @@
 ember-statecharts-tools
 ==============================================================================
 
-[Short description of the addon.]
+Tools to make it easy to construct statecharts with [ember-statecharts](https://github.com/LevelbossMike/ember-statecharts)
 
 
 Compatibility

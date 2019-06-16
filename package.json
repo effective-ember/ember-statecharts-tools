@@ -1,7 +1,7 @@
 {
   "name": "ember-statecharts-tools",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Helper tools for architecting behavior with ember-statecharts",
   "keywords": [
     "ember-addon"
   ],
