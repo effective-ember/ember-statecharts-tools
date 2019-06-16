@@ -1,0 +1,11 @@
+<div class="es-notifications__container">
+  {{#animated-container initialInsertion=true}}
+    {{#animated-each notifications use=transition duration=500 as |notification|}}
+      <div class="es-notifications__notification">
+        {{notification.message}}
+      </div>
+    {{/animated-each}}
+  {{/animated-container}}
+</div>
+<div class="docs-fixed docs-pin-b docs-w-128 docs-ml-12 docs-mb-4">
+</div>
