@@ -1,11 +1,11 @@
 {
   "name": "ember-statecharts-tools",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Helper tools for architecting behavior with ember-statecharts",
   "keywords": [
     "ember-addon"
   ],
-  "repository": "",
+  "repository": "https://github.com/effective-ember/ember-statecharts-tools",
   "license": "MIT",
   "author": "",
   "directories": {
