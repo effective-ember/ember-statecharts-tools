@@ -1,6 +1,6 @@
 {
   "name": "ember-statecharts-tools",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Helper tools for architecting behavior with ember-statecharts",
   "keywords": [
     "ember-addon"
