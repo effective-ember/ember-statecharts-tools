@@ -3,6 +3,12 @@
 module.exports = {
   name: require('./package').name,
 
+  options: {
+    autoImport: {
+      exclude: ['ember-statecharts']
+    }
+  },
+
   included() {
     this._super.included.apply(this, arguments);
 
