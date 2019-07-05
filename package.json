@@ -29,7 +29,7 @@
     "ember-cli-htmlbars": "^3.0.1",
     "ember-concurrency": "^1.0.0",
     "leader-line": "^1.0.5",
-    "xstate": "^4.6.1"
+    "xstate": "^4.6.4"
   },
   "devDependencies": {
     "@ember/optional-features": "^0.7.0",
